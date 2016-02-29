@@ -1,0 +1,21 @@
+{
+  "name": "enochs-tools",
+  "authors": [
+    "Chani Enochs"
+  ],
+  "description": "front end tools for bower",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "elvenware"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.elvenware.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
